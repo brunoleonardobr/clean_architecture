@@ -9,4 +9,9 @@ Projeto - Checkout de Ecommerce
 
 ### Segunda Etapa:
 
-- Criação de outro client e aplicando conceitos de arquitetura hexagonals
+- Criação de outro client e aplicando conceitos de arquitetura hexagonal
+
+### Terceira Etapa:
+
+- Em progresso...
+
